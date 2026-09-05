@@ -1,0 +1,10 @@
+/api/auth
+/api/users
+/api/services
+/api/projects
+/api/quotes
+/api/contacts
+/api/documents
+/api/media
+/api/notifications
+/api/settings
