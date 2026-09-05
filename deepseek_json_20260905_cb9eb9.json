@@ -1,0 +1,13 @@
+{
+  "name": "neas-employee-directory",
+  "version": "2.0.0",
+  "description": "NEAS Employee Directory with Full Backend",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  }
+}

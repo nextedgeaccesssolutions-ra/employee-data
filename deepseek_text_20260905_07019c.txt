@@ -1,0 +1,26 @@
+neas-backend/
+├── index.html (Frontend - Employee Directory)
+├── api/
+│   ├── auth.js
+│   ├── users.js
+│   ├── services.js
+│   ├── projects.js
+│   ├── quotes.js
+│   ├── contacts.js
+│   ├── documents.js
+│   ├── media.js
+│   ├── notifications.js
+│   └── settings.js
+├── data/
+│   ├── users.json
+│   ├── services.json
+│   ├── projects.json
+│   ├── quotes.json
+│   ├── contacts.json
+│   ├── documents.json
+│   ├── media.json
+│   ├── notifications.json
+│   └── settings.json
+├── vercel.json
+├── package.json
+└── README.md
